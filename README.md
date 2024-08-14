@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |           | <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware analysis</a>|
 |           |<a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>|
 |           |Intrusion detection system/Zeek network monitoring|
-|           |Set up a honey pot|
+|           | <a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>|
 |           |wazuh to SOAR implementation|
 |           | |
 
@@ -56,3 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>
+- <a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>
