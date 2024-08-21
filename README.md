@@ -13,12 +13,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           | <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware analysis</a>|
-|           |<a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>|
-|           |Intrusion detection system/Zeek network monitoring|
-|           | <a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>|
-|           |wazuh to SOAR implementation|
-|           | |
+|  Technical Proficiency and Skills, Practical Experience, Understanding of Security Concepts         | <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware analysis</a>|
+|   Proven Ability to Identify and Address Critical Vulnerabilities, Effective Use of Advanced Tools and Techniques, Successful Remediation and Risk Mitigation  |<a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>|
+| Technical Proficiency in Honeypot Deployment, Expertise in Threat Detection and Analysis,  Strong Problem-Solving and Analytical Skills          |<a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>|
+|           | wazuh to SOAR implementation|
+|           |Intrusion detection system/Zeek network monitoring |
+
 
 ## Tools
 
@@ -26,21 +26,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <img src="https://img.shields.io/badge/-WiFi%20Analyzer-FF0000?style=for-the-badge&logo=wifi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Ping%20%26%20Traceroute-28A745?style=for-the-badge&logo=network&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-ADD8E6?style=for-the-badge&logo=nmap&logoColor=white" />
+
+
+
 </div>
 
-### Endpoint
+###Coding Languages
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-FF5722?style=for-the-badge&logo=Java&logoColor=white" />
+
+
+    
 </div>
+
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
