@@ -34,8 +34,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 </div>
+<div> 
 
-###Coding Languages
+</div>
+
+
+**Coding Languages**
+
+
 <div>
 <img src="https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black" />
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
