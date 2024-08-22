@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |  Technical Proficiency and Skills, Practical Experience, Understanding of Security Concepts         | <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware analysis</a>|
 |   Proven Ability to Identify and Address Critical Vulnerabilities, Effective Use of Advanced Tools and Techniques, Successful Remediation and Risk Mitigation  |<a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>|
 | Technical Proficiency in Honeypot Deployment, Expertise in Threat Detection and Analysis,  Strong Problem-Solving and Analytical Skills          |<a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>|
-|           | wazuh to SOAR implementation|
+|Efficiency and Optimization, Problem-Solving and Algorithmic Thinking, Understanding of Backtracking and Recursion          | <a href="https://github.com/Tristan-cybersec/Suduko-solver/blob/main/README.md">Sudoku Solver</a>|
 |           |Intrusion detection system/Zeek network monitoring |
 
 
@@ -75,3 +75,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/Tristan-cybersec/Malware-Analysis">Malware Analysis</a>
 - <a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>
 - <a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>
+-  <a href="https://github.com/Tristan-cybersec/Suduko-solver/blob/main/README.md">Sudoku Solver</a>
