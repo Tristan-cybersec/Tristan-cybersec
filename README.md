@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |   Proven Ability to Identify and Address Critical Vulnerabilities, Effective Use of Advanced Tools and Techniques, Successful Remediation and Risk Mitigation  |<a href="https://github.com/Tristan-cybersec/-identify-remediate-vulnerabilities/blob/main/README.md">Identify & Remediate Vulnerabilities</a>|
 | Technical Proficiency in Honeypot Deployment, Expertise in Threat Detection and Analysis,  Strong Problem-Solving and Analytical Skills          |<a href="https://github.com/Tristan-cybersec/HoneyPot">Honey Pot</a>|
 |Efficiency and Optimization, Problem-Solving and Algorithmic Thinking, Understanding of Backtracking and Recursion          | <a href="https://github.com/Tristan-cybersec/Sudoku-Solver">Sudoku Solver</a>|
-|           |Intrusion detection system/Zeek network monitoring |
+|         Currently Busy  |Intrusion detection system/Zeek network monitoring |
 
 
 ## Tools
